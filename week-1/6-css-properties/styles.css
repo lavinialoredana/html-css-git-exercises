@@ -7,15 +7,15 @@ a {
 }
 
 .message_time {
-  font-size: 9rem;
+  font-size: 12rem;
 }
 
 .message-message--unread {
-  border-left: blue;
+  border-left: blue 3px;
 }
 
 .message__time-message__time--old {
-  opacity: 0.5;
+  opacity: 0.2;
 }
 
 .messages {
