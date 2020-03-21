@@ -1,8 +1,17 @@
 /* Add your own CSS code below */
 
-@media screen and (min-width: 768px) {
-  .country {
-    display: flex;
-    flex-direction: column;
-  }
+.countries {
+  display: flex;
+}
+
+.countries-countries--first {
+  flex-direction: column;
+}
+
+.countries-countries--second {
+  flex-direction: row;
+}
+
+.countries-countries--third {
+  flex-direction: row;
 }
